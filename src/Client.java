@@ -1,4 +1,5 @@
 import java.rmi.Naming;
+import java.util.Scanner;
 
 public class Client {
 
